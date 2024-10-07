@@ -2,13 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-   <main>
-    <div className='text-white'>
-
-    Hi
-
-
-    </div>
-   </main>
+    <main className="h-full w-fll">
+      <div className="flex flex-col gap-20">
+        Hi
+        </div>
+    </main>
   );
 }
