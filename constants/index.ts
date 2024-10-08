@@ -205,31 +205,24 @@ export const Full_stack = [
     width: 70,
     height: 70,
   },
-  {
-    skill_name: "Tauri",
-    Image: "/tauri.svg",
-    width: 70,
-    height: 70,
-  },
-  {
-    skill_name: "Docker",
-    Image: "/docker.webp",
-    width: 70,
-    height: 70,
-  },
-
-  {
-    skill_name: "Figma",
-    Image: "/figma.png",
-    width: 50,
-    height: 50,
-  },
 ];
 
 export const Other_skill = [
   {
     skill_name: "Python",
     Image: "/Python.png",
+    width: 60,
+    height: 60,
+  },
+  {
+    skill_name: "Java",
+    Image: "/Java.png",
+    width: 100,
+    height: 100,
+  },
+  {
+    skill_name: "C++",
+    Image: "/C.png",
     width: 60,
     height: 60,
   },
